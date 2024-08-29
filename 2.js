@@ -1,0 +1,10 @@
+var arr = [ ]
+arr. push (10)
+arr. push ( 20)
+console. log (arr)
+arr. shift()
+console. log (arr)
+arr. push (100)
+console. log(arr)
+arr.unshift (100)
+console. log (arr)
